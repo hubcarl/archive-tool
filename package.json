@@ -1,6 +1,6 @@
 {
   "name": "archive-tool",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "archive files to zip/tar",
   "keywords": [
     "archiver",
